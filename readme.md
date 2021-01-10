@@ -5,7 +5,7 @@
 
 *Made in python 3*
 
-<img src="docs/score.jpg" />
+<img src="docs/score.JPG" />
 
 ## Setup:
 
@@ -26,8 +26,7 @@ $ pip install pynput
 $ pip install pywin32
 ```
 ### 3) start Minesweeper game
- - download game (old version) here (or search for free download):
-   - http://www.minesweeper.info/downloads/games/Winmine__XP.exe
- - **verify hash before launching (SHA256=BCFF89311D792F6428468E813AC6929A346A979F907071C302F418D128EAAF41)**
- - start the game and execute script on ``main.py``
+ - download game [here](https://github.com/WANI0N/Minesweeper/raw/master/docs/Winmine__XP.zip)
+ - run ``Winmine__XP.exe`` (original hash SHA256=BCFF89311D792F6428468E813AC6929A346A979F907071C302F418D128EAAF41)
+ - execute script on ``main.py``
 
