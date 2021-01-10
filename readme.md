@@ -1,5 +1,5 @@
-# [<img align="left" style="float: left; margin-right: 25px;" alt="html" width="35px" src="docs/logo.png" />]() Minesweeper robot 
-*Robot that plays minesweeper in any difficulty* 
+# [<img align="left" style="float: left; margin-right: 25px;" alt="html" width="35px" src="docs/logo.png" />]() Minesweeper Robot 
+*Robot that plays minesweeper on any difficulty* 
 
 <img src="docs/robot solving.gif" />
 
