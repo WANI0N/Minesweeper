@@ -4,7 +4,7 @@ import win32gui as wgui
 import time
 
 #custom lib
-from winfunctions import win
+from win_class import win
 
 #retreive hwnd of target window
 hwnd = wgui.FindWindow("Minesweeper",None)

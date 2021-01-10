@@ -114,7 +114,7 @@ class win:
         """
         updates gridData in given area
         submit x,y = position of center square
-        size = 
+        size = number of cells from center cell to edge
         """
         areaScope = getAreaScope(x,y,size)
         #looping through scan area and updating gridData
