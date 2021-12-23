@@ -18,12 +18,14 @@ $ git clone https://github.com/WANI0N/Minesweeper
 ```
  - [how to clone repository](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
-### 2) install packages
+### 2) install virtual env and packages
 
 ```
-$ pip install pynput
+$ python -m venv venv
 
-$ pip install pywin32
+$ source venv/Scripts/activate
+
+$ pip install -r requirements.txt
 ```
 ### 3) start Minesweeper game
  - download game [here](https://github.com/WANI0N/Minesweeper/raw/master/docs/Winmine__XP.zip)
